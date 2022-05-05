@@ -1,0 +1,14 @@
+References
+Action listener on comboBox to display selection in textField. (n.d.). Stack Overflow. https://stackoverflow.com/questions/24457607/action-listener-on-combobox-to-display-selection-in-textfield
+
+Drawing an image (The Java™ tutorials > 2D graphics > working with images). (n.d.). Moved. https://docs.oracle.com/javase/tutorial/2d/images/drawimage.html
+
+How can we implement the paintComponent() method of a JPanel in Java? (n.d.). RxJS, ggplot2, Python Data Persistence, Caffe2, PyBrain, Python Data Access, H2O, Colab, Theano, Flutter, KNime, Mean.js, Weka, Solidity. https://www.tutorialspoint.com/how-can-we-implement-the-paintcomponent-method-of-a-jpanel-in-java
+
+How does paintComponent work? (n.d.). Stack Overflow. https://stackoverflow.com/questions/15544549/how-does-paintcomponent-work
+
+How does paintComponent work? (n.d.). Stack Overflow. https://stackoverflow.com/questions/15544549/how-does-paintcomponent-work
+
+Java tutorial: Graphics interface III - paintComponent - 2020. (n.d.). Open Source: 2020 - Java/C++/Python/BigData/Android/. https://www.bogotobogo.com/Java/tutorials/javagraphics3.php
+
+MVC: Model, view, controller. (n.d.). Codecademy. https://www.codecademy.com/articles/mvc
